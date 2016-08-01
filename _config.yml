@@ -1,0 +1,14 @@
+layout_spectrum: 0.6660411774646491
+typography_spectrum: 0.5569238159805536
+color:
+  brandStrength: 0.36579280043952167
+  lightness: 0.2331800041720271
+  saturation: 0.14773537986911833
+  rhythmicContrast: 0.46182958292774856
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: chrisparker.com
